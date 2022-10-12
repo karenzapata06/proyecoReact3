@@ -10,18 +10,13 @@ export function Footer(){
                         <h4>2022</h4>
                     </div>
                     <div className="col-12 col-md-6 d-flex align-self-center border-start justify-content-center">
-                        <a href="https://www.linkedin.com/in/henrygomezflorez/">
+                        <a href="https://www.linkedin.com/in/karen-zapata-44b910252/">
                         <i className="bi bi-linkedin fs-1 text-white p-5"></i>
                         </a>
-                        <a href="https://github.com/gomezhenry77">
+                        <a href="https://github.com/karenzapata06">
                         <i className="bi bi-github fs-1 text-white p-5"></i>
                         </a>
-                        <a href="https://www.facebook.com/henry.gomez.39545">
-                        <i className="bi bi-facebook fs-1 text-white p-5"></i>
-                        </a>
-                        <a href="https://twitter.com/jacob_gomez739">
-                        <i className="bi bi-twitter fs-1 text-white p-5"></i>
-                        </a>
+
                     </div>
                 </div>
             </footer>
