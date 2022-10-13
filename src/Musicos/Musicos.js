@@ -25,7 +25,7 @@ export function Musicos (){
         {
             fecha:"16 mayo 2018",
             pais:"España",
-            descripcion:"Jesse & Joy vuelven a hacer vibrar la tarima y a sus seguidores",
+            descripcion:"Jesse & Joy vuelven a hacer vibrar la tarima y a sus seguidores El dominicano Juan Luis Guerra fue el invitado especial al concierto que Jesse & Joy ofrecieron la semana pasada en el Auditorio Nacional, México. Esto fue con motivo de la gira que los hermanos están haciendo «Un besito más Este fue uno de los mejores conciertos que tuvo Guerra, ya que junto a Jesse & Joy lograron animar a más de 10 mil personas que fueron a verlos y  escucharlos cantar canciones como: ¿Con quién se queda el perro?, No soy una de esas, Chocolate y muchas más, así lo informó Grupo Formula ",
             Foto:"https://firebasestorage.googleapis.com/v0/b/spotify2-29277.appspot.com/o/espa%C3%B1a.jpg?alt=media&token=72e09984-ee54-4460-83c9-368bedc004b5",
         },
         {
